@@ -1,4 +1,4 @@
-# Building a 3-Tier Web Application with AWS RDS as the Database Layer
+# Deploying 3-Tier Architecture Project: From Frontend to Database with AWS RDS
 
 ## Project Overview
 This project demonstrates a *3-tier architecture* using AWS services, separating the application into *Web, Application, and Database tiers*.  
